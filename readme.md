@@ -53,4 +53,12 @@ Este comando los listará todos pero solo ejecutará el que se le indique.
 
 ![Alt text](lib/image.png)
 
+## Estado de las pruebas (instalación de dependencias, lint, tests)
+
+[![pnpm ci - eslint - tests](https://github.com/jamerrq/advent-js-2023/actions/workflows/ci-eslint.yml/badge.svg)](https://github.com/jamerrq/advent-js-2023/actions/workflows/ci-eslint.yml)
+
+## Copyrigth
+
+© 2023 [jamerrq](https://github.com/jamerrq)
+
 [^1]: **Dificultad**: 🟢 Facil 🟠 Media 🔴 Dificil
