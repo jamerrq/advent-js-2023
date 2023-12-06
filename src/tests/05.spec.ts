@@ -1,7 +1,7 @@
 import { test, expectTypeOf, expect, describe } from 'vitest'
 import { cyberReindeer } from '../challenges/05'
 
-describe('Challenge #04', () => {
+describe('Challenge #05', () => {
   test('Test #01', () => {
     expectTypeOf(cyberReindeer).returns.toEqualTypeOf([''])
   })
