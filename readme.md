@@ -1,4 +1,4 @@
-# Advent JS version 2023
+# Advent JS version 2023 🎄
 
 El [AdventJS](https://adventjs.dev/) es un evento iniciativa de
 [@midudev](https://midu.dev/). En él, durante 24 días del mes de diciembre se
@@ -9,7 +9,7 @@ estarán publicando retos en la página oficial del evento:
 Los retos se pueden resolver tanto en JavaScript como en Typescript, para esta
 versión estaré usando TypeScript, en su versión 5.3.2.
 
-## Retos
+## Retos 🎅
 
 | Día |                                     Reto                                      | Dificultad [^1]  |                                Solución                                 |
 | :-: | :---------------------------------------------------------------------------: | :--------: | :---------------------------------------------------------------------: |
@@ -20,14 +20,15 @@ versión estaré usando TypeScript, en su versión 5.3.2.
 | 05  | [**El CyberTruck de Santa**](https://adventjs.dev/es/challenges/2023/5) |     🟠     | [05 TS](./src/challenges/05.ts) |
 | 06  | [**Los renos a prueba**](https://adventjs.dev/es/challenges/2023/6) |     🟢     | [06 TS](./src/challenges/06.ts) |
 
-## Herramientas
+## Herramientas utilizadas 🛠️
 
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Pnpm](https://img.shields.io/badge/-Pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 ![EsLint](https://img.shields.io/badge/-EsLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-ADD467?style=flat-square&logo=vitest&logoColor=white)
 
-## Ejecutar los tests
+## Tests 🧪
 
 Para ejecutar los tests de los retos, se debe ejecutar el siguiente comando:
 
@@ -36,7 +37,7 @@ pnpm t
 ```
 ![Alt text](lib/image-2.png)
 
-## Ejecutar un reto
+## Test individuales 🔬
 
 Para ejecutar un reto en particular, se debe ejecutar el siguiente comando:
 
@@ -54,7 +55,7 @@ Este comando los listará todos pero solo ejecutará el que se le indique.
 
 ![Alt text](lib/image.png)
 
-## Estado de las pruebas (instalación de dependencias, lint, tests)
+## Github Actions (instalación de dependencias, lint, tests) 🚀
 
 [![pnpm ci - eslint -
 tests](https://github.com/jamerrq/advent-js-2023/actions/workflows/ci-eslint-tests.yml/badge.svg)](https://github.com/jamerrq/advent-js-2023/actions/workflows/ci-eslint-tests.yml)
