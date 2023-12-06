@@ -18,6 +18,7 @@ versión estaré usando TypeScript, en su versión 5.3.2.
 | 03  |       [**El elfo travieso**](https://adventjs.dev/es/challenges/2023/3)       |     🟢     | [03 TS](./src/challenges/03.ts) |
 | 04  | [**Dale vuelta a los parentesis**](https://adventjs.dev/es/challenges/2023/4) |     🟠     | [04 TS](./src/challenges/04.ts) |
 | 05  | [**El CyberTruck de Santa**](https://adventjs.dev/es/challenges/2023/5) |     🟠     | [05 TS](./src/challenges/05.ts) |
+| 06  | [**Los renos a prueba**](https://adventjs.dev/es/challenges/2023/6) |     🟢     | [06 TS](./src/challenges/06.ts) |
 
 ## Herramientas
 
@@ -55,7 +56,8 @@ Este comando los listará todos pero solo ejecutará el que se le indique.
 
 ## Estado de las pruebas (instalación de dependencias, lint, tests)
 
-[![pnpm ci - eslint - tests](https://github.com/jamerrq/advent-js-2023/actions/workflows/ci-eslint-tests.yml/badge.svg)](https://github.com/jamerrq/advent-js-2023/actions/workflows/ci-eslint-tests.yml)
+[![pnpm ci - eslint -
+tests](https://github.com/jamerrq/advent-js-2023/actions/workflows/ci-eslint-tests.yml/badge.svg)](https://github.com/jamerrq/advent-js-2023/actions/workflows/ci-eslint-tests.yml)
 
 ## Copyrigth
 
