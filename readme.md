@@ -21,9 +21,9 @@ versión estaré usando TypeScript, en su versión 5.3.2.
 
 ## Herramientas
 
-![EsLint](https://img.shields.io/badge/-EsLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![TsNode](https://img.shields.io/badge/-TsNode-3178C6?style=flat-square&logo=ts-node&logoColor=white)
+![EsLint](https://img.shields.io/badge/-EsLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-ADD467?style=flat-square&logo=vitest&logoColor=white)
 
 ## Ejecutar los tests
@@ -55,7 +55,7 @@ Este comando los listará todos pero solo ejecutará el que se le indique.
 
 ## Estado de las pruebas (instalación de dependencias, lint, tests)
 
-[![pnpm ci - eslint - tests](https://github.com/jamerrq/advent-js-2023/actions/workflows/ci-eslint.yml/badge.svg)](https://github.com/jamerrq/advent-js-2023/actions/workflows/ci-eslint.yml)
+[![pnpm ci - eslint - tests](https://github.com/jamerrq/advent-js-2023/actions/workflows/ci-eslint-tests.yml/badge.svg)](https://github.com/jamerrq/advent-js-2023/actions/workflows/ci-eslint-tests.yml)
 
 ## Copyrigth
 

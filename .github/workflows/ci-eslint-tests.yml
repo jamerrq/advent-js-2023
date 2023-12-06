@@ -7,7 +7,7 @@ on:
     branches: [ "master" ]
 
 jobs:
-  cache-and-install:
+  cache-install-lint-tests:
     runs-on: ubuntu-latest
 
     steps:
