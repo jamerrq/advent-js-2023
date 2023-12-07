@@ -19,6 +19,7 @@ versión estaré usando TypeScript, en su versión 5.3.2.
 | 04  | [**Dale vuelta a los parentesis**](https://adventjs.dev/es/challenges/2023/4) |     🟠     | [04 TS](./src/challenges/04.ts) |
 | 05  | [**El CyberTruck de Santa**](https://adventjs.dev/es/challenges/2023/5) |     🟠     | [05 TS](./src/challenges/05.ts) |
 | 06  | [**Los renos a prueba**](https://adventjs.dev/es/challenges/2023/6) |     🟢     | [06 TS](./src/challenges/06.ts) |
+| 07  | [**Las cajas en 3d**](https://adventjs.dev/es/challenges/2023/7) |     🟢     | [07 TS](./src/challenges/07.ts) |
 
 ## Herramientas utilizadas 🛠️
 
@@ -27,6 +28,8 @@ versión estaré usando TypeScript, en su versión 5.3.2.
 ![Pnpm](https://img.shields.io/badge/-Pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 ![EsLint](https://img.shields.io/badge/-EsLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-ADD467?style=flat-square&logo=vitest&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Github Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ## Tests 🧪
 
