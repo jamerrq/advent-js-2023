@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "vitest",
-    "lint": "eslint . --fix --ext .ts"
+    "lint": "eslint . --fix --ext .ts",
+    "create": "sh ./src/bash/create-new-challenge.sh $N"
   },
   "keywords": [],
   "author": "",
