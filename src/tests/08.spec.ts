@@ -1,7 +1,7 @@
 import { test, expectTypeOf, expect, describe } from 'vitest'
 import { organizeGifts } from '../challenges/08'
 
-describe('Challenge Test Template', () => {
+describe('Challenge #08', () => {
   test('Test #01', () => {
     expectTypeOf(organizeGifts).returns.toEqualTypeOf('')
   })
