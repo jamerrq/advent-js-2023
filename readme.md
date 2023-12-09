@@ -13,17 +13,17 @@ Para esta versión estaré usando TypeScript, en su versión 5.3.2.
 
 ## Retos 🎅
 
-| Día |                                     Reto                                      | Dificultad [^1]  |                                Solución                                 |
-| :-: | :---------------------------------------------------------------------------: | :--------: | :---------------------------------------------------------------------: |
-| 01  |   [**¡Primer regalo repetido!**](https://adventjs.dev/es/challenges/2023/1)   |     🟢     | [01 TS](./src/challenges/01.ts) |
-| 02  | [**Ponemos en Marcha la fabrica**](https://adventjs.dev/es/challenges/2023/2) |     🟢     | [02 TS](./src/challenges/02.ts) |
-| 03  |       [**El elfo travieso**](https://adventjs.dev/es/challenges/2023/3)       |     🟢     | [03 TS](./src/challenges/03.ts) |
-| 04  | [**Dale vuelta a los parentesis**](https://adventjs.dev/es/challenges/2023/4) |     🟠     | [04 TS](./src/challenges/04.ts) |
-| 05  | [**El CyberTruck de Santa**](https://adventjs.dev/es/challenges/2023/5) |     🟠     | [05 TS](./src/challenges/05.ts) |
-| 06  | [**Los renos a prueba**](https://adventjs.dev/es/challenges/2023/6) |     🟢     | [06 TS](./src/challenges/06.ts) |
-| 07  | [**Las cajas en 3d**](https://adventjs.dev/es/challenges/2023/7) |     🟢     | [07 TS](./src/challenges/07.ts) |
-| 08  | [**Ordenando el almacen**](https://adventjs.dev/es/challenges/2023/8) |     🟠     | [08 TS](./src/challenges/08.ts) |
-| 09  | [**Alterna las luces**](https://adventjs.dev/es/challenges/2023/9) |     🟢     | [09 TS](./src/challenges/09.ts) |
+| Día | Reto | Dificultad [^1] | Solución | Tests |
+| :-: | :---------------------------------------------------------------------------: | :--------: | :---------------------------------------------------------------------: | :---: |
+| 01  | [**¡Primer regalo repetido!**](https://adventjs.dev/es/challenges/2023/1)     |     🟢     | [TS](./src/challenges/01.ts) | [SPEC](./src/tests/01.spec.ts) |
+| 02  | [**Ponemos en Marcha la fabrica**](https://adventjs.dev/es/challenges/2023/2) |     🟢     | [TS](./src/challenges/02.ts) | [SPEC](./src/tests/02.spec.ts) |
+| 03  | [**El elfo travieso**](https://adventjs.dev/es/challenges/2023/3)             |     🟢     | [TS](./src/challenges/03.ts) | [SPEC](./src/tests/03.spec.ts) |
+| 04  | [**Dale vuelta a los parentesis**](https://adventjs.dev/es/challenges/2023/4) |     🟠     | [TS](./src/challenges/04.ts) | [SPEC](./src/tests/04.spec.ts) |
+| 05  | [**El CyberTruck de Santa**](https://adventjs.dev/es/challenges/2023/5)       |     🟠     | [TS](./src/challenges/05.ts) | [SPEC](./src/tests/05.spec.ts) |
+| 06  | [**Los renos a prueba**](https://adventjs.dev/es/challenges/2023/6)           |     🟢     | [TS](./src/challenges/06.ts) | [SPEC](./src/tests/06.spec.ts) |
+| 07  | [**Las cajas en 3d**](https://adventjs.dev/es/challenges/2023/7)              |     🟢     | [TS](./src/challenges/07.ts) | [SPEC](./src/tests/07.spec.ts) |
+| 08  | [**Ordenando el almacen**](https://adventjs.dev/es/challenges/2023/8)         |     🟠     | [TS](./src/challenges/08.ts) | [SPEC](./src/tests/08.spec.ts) |
+| 09  | [**Alterna las luces**](https://adventjs.dev/es/challenges/2023/9)            |     🟢     | [TS](./src/challenges/09.ts) | [SPEC](./src/tests/09.spec.ts) |
 
 ## Herramientas utilizadas 🛠️
 
