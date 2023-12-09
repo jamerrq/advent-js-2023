@@ -1,13 +1,15 @@
 # Advent JS version 2023 🎄
 
+Soluciones bizarras a los retos del [AdventJS](https://adventjs.dev/) 2023.
+
 El [AdventJS](https://adventjs.dev/) es un evento iniciativa de
 [@midudev](https://midu.dev/). En él, durante 24 días del mes de diciembre se
 estarán publicando retos en la página oficial del evento:
 
 - https://adventjs.dev/
 
-Los retos se pueden resolver tanto en JavaScript como en Typescript, para esta
-versión estaré usando TypeScript, en su versión 5.3.2.
+Los retos se pueden resolver tanto en JavaScript como en Typescript.
+Para esta versión estaré usando TypeScript, en su versión 5.3.2.
 
 ## Retos 🎅
 
@@ -20,15 +22,20 @@ versión estaré usando TypeScript, en su versión 5.3.2.
 | 05  | [**El CyberTruck de Santa**](https://adventjs.dev/es/challenges/2023/5) |     🟠     | [05 TS](./src/challenges/05.ts) |
 | 06  | [**Los renos a prueba**](https://adventjs.dev/es/challenges/2023/6) |     🟢     | [06 TS](./src/challenges/06.ts) |
 | 07  | [**Las cajas en 3d**](https://adventjs.dev/es/challenges/2023/7) |     🟢     | [07 TS](./src/challenges/07.ts) |
+| 08  | [**Ordenando el almacen**](https://adventjs.dev/es/challenges/2023/8) |     🟠     | [08 TS](./src/challenges/08.ts) |
+| 09  | [**Alterna las luces**](https://adventjs.dev/es/challenges/2023/9) |     🟢     | [09 TS](./src/challenges/09.ts) |
 
 ## Herramientas utilizadas 🛠️
 
-![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Pnpm](https://img.shields.io/badge/-Pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 ![EsLint](https://img.shields.io/badge/-EsLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-ADD467?style=flat-square&logo=vitest&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ## Tests 🧪
