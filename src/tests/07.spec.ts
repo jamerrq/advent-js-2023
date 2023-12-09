@@ -30,7 +30,6 @@ describe('Challenge #07', () => {
 #***##
 #####
 `
-    console.log(drawGift(5, '*'))
     expect(drawGift(5, '*')).toEqual(expected)
   })
 
