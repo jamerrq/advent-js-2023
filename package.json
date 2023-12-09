@@ -6,7 +6,8 @@
   "scripts": {
     "test": "vitest",
     "lint": "eslint . --fix --ext .ts",
-    "create": "sh ./src/bash/create-new-challenge.sh"
+    "create": "sh ./src/bash/create-new-challenge.sh",
+    "delete": "sh ./src/bash/delete-challenge.sh"
   },
   "keywords": [],
   "author": "",
