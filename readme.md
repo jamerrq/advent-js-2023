@@ -24,6 +24,7 @@ Para esta versión estaré usando TypeScript, en su versión 5.3.2.
 | 07  | [**Las cajas en 3d**](https://adventjs.dev/es/challenges/2023/7)              |     🟢     | [TS](./src/challenges/07.ts) | [SPEC](./src/tests/07.spec.ts) |
 | 08  | [**Ordenando el almacen**](https://adventjs.dev/es/challenges/2023/8)         |     🟠     | [TS](./src/challenges/08.ts) | [SPEC](./src/tests/08.spec.ts) |
 | 09  | [**Alterna las luces**](https://adventjs.dev/es/challenges/2023/9)            |     🟢     | [TS](./src/challenges/09.ts) | [SPEC](./src/tests/09.spec.ts) |
+| 10  | [**Crea tu propio árbol de navidad**](https://adventjs.dev/es/challenges/2023/10)       |     🟢     | [TS](./src/challenges/10.ts) | [SPEC](./src/tests/10.spec.ts) |
 
 ## Herramientas utilizadas 🛠️
 
