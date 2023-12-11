@@ -1,10 +1,11 @@
-import { test, expectTypeOf, expect, describe } from 'vitest'
+import { test, assertType, expect, describe } from 'vitest'
 import { getIndexsForPalindrome } from '../challenges/11'
 
 describe('Challenge #11', () => {
-  // test('Test #01', () => {
-  //   expectTypeOf(getIndexsForPalindrome).returns.toEqualTypeOf(typeForGetIndexsForPalindrome)
-  // })
+  test('Test #01', () => {
+    const answer = getIndexsForPalindrome('')
+    assertType<[number, number] | null | []>(answer)
+  })
 
   // Test: getIndexsForPalindrome('anna')
   test('Test #02', () => {
