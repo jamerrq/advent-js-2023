@@ -48,7 +48,7 @@ describe('Challenge #12', () => {
   })
 
   test('Test #10', () => {
-    const received = checkIsValidCopy('3 regalos', '3 .+:# #:')
+    const received = checkIsValidCopy('3 #egalos', '3 .+:# #:')
     expect(received).toEqual(true)
   })
 
