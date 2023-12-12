@@ -5,7 +5,7 @@ export function createChristmasTree (ornaments: string, height: number): string 
   let ans = ''
   let index = 0
   const spaces = ' '.repeat(height - 1)
-  for (const i of Array.from({ length: height }).keys()) {
+  for (const i of Array(height).keys()) {
     const orns = allChars.substring(index, index + 2 * i + 1)
     const row = `${spaces.substring(i)}${orns}\n`
     index += 2 * (i + 1)
