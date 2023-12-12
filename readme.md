@@ -50,29 +50,21 @@ Para esta versión estaré usando TypeScript, en su versión 5.3.2.
 Para ejecutar los tests de los retos, se debe ejecutar el siguiente comando:
 
 ```bash
-pnpm t
+pnpm test-all
 ```
-![Alt text](lib/image-2.png)
+![Alt text](-/../lib/all-tests.png)
 
 ## Test individuales 🔬
 
 Para ejecutar un reto en particular, se debe ejecutar el siguiente comando:
 
 ```bash
-pnpm vitest src/tests/{day}.spec.ts
+pnpm t $N
 ```
-![Alt text](lib/image-1.png)
+Donde `$N` es el número del reto.
+![Alt text](./lib/individual-tests.png)
 
-O también se puede ejecutar el siguiente comando:
-
-```bash
-pnpm vitest -t "Challenge #{day}"
-```
-Este comando los listará todos pero solo ejecutará el que se le indique.
-
-![Alt text](lib/image.png)
-
-## Github Actions (instalación de dependencias, lint, tests) 🚀
+## CI/CD 🚀
 
 [![pnpm ci - eslint -
 tests](https://github.com/jamerrq/advent-js-2023/actions/workflows/ci-eslint-tests.yml/badge.svg)](https://github.com/jamerrq/advent-js-2023/actions/workflows/ci-eslint-tests.yml)

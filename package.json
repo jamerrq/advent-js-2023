@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "vitest",
+    "test": "vitest ./src/tests/$N.spec.ts",
     "lint": "eslint . --fix --ext .ts",
     "create": "sh ./src/bash/create-new-challenge.sh",
-    "delete": "sh ./src/bash/delete-challenge.sh"
+    "delete": "sh ./src/bash/delete-challenge.sh",
+    "test-all": "vitest"
   },
   "keywords": [],
   "author": "",
