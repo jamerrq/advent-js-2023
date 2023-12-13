@@ -31,6 +31,7 @@ Para esta versión estaré usando TypeScript, en su versión 5.3.2.
 | 10  | [**Crea tu propio árbol de navidad**](https://adventjs.dev/es/challenges/2023/10)       |     🟢     | [TS](./src/challenges/10.ts) | [SPEC](./src/tests/10.spec.ts) |
 | 11  | [**Los elfos estudiosos**](https://adventjs.dev/es/challenges/2023/11)       |     🟠     | [TS](./src/challenges/11.ts) | [SPEC](./src/tests/11.spec.ts) |
 | 12  | [**Es una copia válida?**](https://adventjs.dev/es/challenges/2023/12)       |     🟠     | [TS](./src/challenges/12.ts) | [SPEC](./src/tests/12.spec.ts) |
+| 13  | [**Calculando el tiempo**](https://adventjs.dev/es/challenges/2023/13)           |     🟢     | [TS](./src/challenges/13.ts) | [SPEC](./src/tests/13.spec.ts) |
 
 ## Herramientas utilizadas 🛠️
 
