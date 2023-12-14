@@ -33,4 +33,15 @@ describe('Challenge #14', () => {
   test('Test #08', () => {
     expect(maxGifts([99])).toEqual(99)
   })
+
+  // These tests below are not in the original challenge, its from the channel
+  // discussion on Discord.
+  test('Test #09', () => {
+    expect(maxGifts([5, 1, 1, 5])).toEqual(10)
+  })
+
+  // https://discord.com/channels/741237973663612969/915910832259477534
+  test('Test #10', () => {
+    expect(maxGifts([4, 1, 1, 4, 2, 1])).toEqual(9)
+  })
 })
