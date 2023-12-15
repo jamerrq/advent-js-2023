@@ -33,6 +33,7 @@ Para esta versión estaré usando TypeScript, en su versión 5.3.2.
 | 12  | [**Es una copia válida?**](https://adventjs.dev/es/challenges/2023/12)       |     🟠     | [TS](./src/challenges/12.ts) | [SPEC](./src/tests/12.spec.ts) |
 | 13  | [**Calculando el tiempo**](https://adventjs.dev/es/challenges/2023/13)           |     🟢     | [TS](./src/challenges/13.ts) | [SPEC](./src/tests/13.spec.ts) |
 | 14  | [**Evita la alarma**](https://adventjs.dev/es/challenges/2023/14)           |     🟠     | [TS](./src/challenges/14.ts) | [SPEC](./src/tests/14.spec.ts) |
+| 15  | [**Robot autónomo**](https://adventjs.dev/es/challenges/2023/15)           |     🟠     | [TS](./src/challenges/15.ts) | [SPEC](./src/tests/15.spec.ts) |
 
 ## Herramientas utilizadas 🛠️
 
