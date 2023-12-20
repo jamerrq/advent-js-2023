@@ -40,6 +40,7 @@ Para esta versión estaré usando TypeScript, en su versión 5.3.2.
 | 17  | [**Optimizando el alquiler**](https://adventjs.dev/es/challenges/2023/17)           |     🟢     | [TS](./src/challenges/17.ts) | [SPEC](./src/tests/17.spec.ts) |
 | 18  | [**El reloj digital**](https://adventjs.dev/es/challenges/2023/18)           |     🔴     | [TS](./src/challenges/18.ts) | [SPEC](./src/tests/18.spec.ts) |
 | 19  | [**Enfrenta el sabotage**](https://adventjs.dev/es/challenges/2023/19)           |     🟠     | [TS](./src/challenges/19.ts) | [SPEC](./src/tests/19.spec.ts) |
+| 20  | [**Distribuye el peso**](https://adventjs.dev/es/challenges/2023/20)           |     🔴     | [TS](./src/challenges/20.ts) | [SPEC](./src/tests/20.spec.ts) |
 
 ## Herramientas utilizadas 🛠️
 
