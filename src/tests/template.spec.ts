@@ -7,6 +7,8 @@ describe('Challenge Test Template', () => {
   })
 
   test('Test #02', () => {
-    expect(undefined).toEqual(undefined)
+    const received = undefined
+    const expected = undefined
+    expect(received).toEqual(expected)
   })
 })
