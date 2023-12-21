@@ -9,7 +9,7 @@
     "create": "sh ./src/bash/create-new-challenge.sh",
     "delete": "sh ./src/bash/delete-challenge.sh",
     "debug": "ts-node --esm ./src/challenges/17.ts",
-    "test-all": "vitest"
+    "test-all": "vitest run"
   },
   "keywords": [],
   "author": "",
