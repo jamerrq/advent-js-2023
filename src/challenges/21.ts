@@ -1,13 +1,10 @@
 export function findBalancedSegment (message: number[]): number[] {
-  const zeros: number[] = [0]
-  const ones = message.reduce<number[]>(
-    (acc, val) => {
-      acc.push(+(val === 1) + (acc.at(-1) ?? 0))
-      zeros.push(+(val === 0) + (zeros.at(-1) ?? 0))
-      return acc
-    },
-    [0]
-  )
+  const zeros = [0]
+  const ones = [0]
+  for (const bit of message) {
+    zeros.push(zeros.at(-1)! + +(bit === 0))
+    ones.push(ones.at(-1)! + +(bit === 1))
+  }
   const ans = []
   let max = 0
   for (let i = 0; i < ones.length; i++) {
