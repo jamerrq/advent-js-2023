@@ -42,6 +42,7 @@ Para esta versión estaré usando TypeScript, en su versión 5.3.2.
 | 19  | [**💣 Enfrenta el sabotage**](https://adventjs.dev/es/challenges/2023/19)           |     🟠     | [TS](./src/challenges/19.ts) | [SPEC](./src/tests/19.spec.ts) |
 | 20  | [**🏋️ Distribuye el peso**](https://adventjs.dev/es/challenges/2023/20)           |     🔴     | [TS](./src/challenges/20.ts) | [SPEC](./src/tests/20.spec.ts) |
 | 21  | [**🪐 Mensaje Binario**](https://adventjs.dev/es/challenges/2023/21)           |     🟠     | [TS](./src/challenges/21.ts) | [SPEC](./src/tests/21.spec.ts) |
+| 22  | [**🚂 Lenguaje de programación**](https://adventjs.dev/es/challenges/2023/22)           |     🟠     | [TS](./src/challenges/22.ts) | [SPEC](./src/tests/22.spec.ts) |
 
 ## Herramientas utilizadas 🛠️
 
