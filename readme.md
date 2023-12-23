@@ -43,6 +43,7 @@ Para esta versión estaré usando TypeScript, en su versión 5.3.2.
 | 20  | [**🏋️ Distribuye el peso**](https://adventjs.dev/es/challenges/2023/20)           |     🔴     | [TS](./src/challenges/20.ts) | [SPEC](./src/tests/20.spec.ts) |
 | 21  | [**🪐 Mensaje Binario**](https://adventjs.dev/es/challenges/2023/21)           |     🟠     | [TS](./src/challenges/21.ts) | [SPEC](./src/tests/21.spec.ts) |
 | 22  | [**🚂 Lenguaje de programación**](https://adventjs.dev/es/challenges/2023/22)           |     🟢     | [TS](./src/challenges/22.ts) | [SPEC](./src/tests/22.spec.ts) |
+| 23  | [**🍽️ Cena de navidad**](https://adventjs.dev/es/challenges/2023/23)           |     🟢     | [TS](./src/challenges/23.ts) | [SPEC](./src/tests/23.spec.ts) |
 
 ## Herramientas utilizadas 🛠️
 
