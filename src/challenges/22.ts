@@ -10,16 +10,18 @@ export function compile (code: string): number {
     ans += +(outside) * +(instruction === '+')
     ans -= 1 * +(outside) * +(instruction === '-')
     ans *= [1, 2][+(outside) * +(instruction === '*')]
-    last = [last, index][+(outside) * +(instruction === '%')]
+    if (instruction === '%') {
+      last = [last, index][+(inside === null || inside)]
+    } else if (instruction === '<') {
+      instructions[index] = ' '
+      index = [last - 1, index - 1][+(last === -1)]
+    }
     const a = +(instruction === '¿')
     const b = +(ans > 0)
     const c = +(instruction === '?')
     inside = [inside, null, true, false][
       2 * a + c + (1 - b) * (1 - c) * (a + b)
     ]
-    const prev = index
-    index = [index, last - 1][+(last !== -1) * +(instructions[index] === '<')]
-    instructions[prev] = [instructions[index], ' '][+(instruction === '<')]
     index++
   }
   return ans
