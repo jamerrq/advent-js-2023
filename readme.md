@@ -1,8 +1,8 @@
 # Advent JS version 2023 🎄
 
-> [!NOTE]
-> Si este repositorio llega a 16+ estrellas, estaré desarrollando una librería
-> de npm para resolver los retos del [AdventJS](https://adventjs.dev/) 2023.
+> [!NOTE] Si este repositorio llega a 16+ estrellas antes de que termine el año,
+> estaré desarrollando una librería en npm para resolver los retos del
+> [AdventJS](https://adventjs.dev/) 2023 de manera local.
 
 Soluciones bizarras a los retos del [AdventJS](https://adventjs.dev/) 2023.
 
@@ -14,8 +14,8 @@ estarán publicando retos en la página oficial del evento:
 
 - https://adventjs.dev/
 
-Los retos se pueden resolver tanto en JavaScript como en Typescript.
-Para esta versión estaré usando TypeScript, en su versión 5.3.2.
+Los retos se pueden resolver tanto en JavaScript como en Typescript. Para esta
+versión estaré usando TypeScript, en su versión 5.3.2.
 
 ## Retos 🎅
 
@@ -44,6 +44,7 @@ Para esta versión estaré usando TypeScript, en su versión 5.3.2.
 | 21  | [**🪐 Mensaje Binario**](https://adventjs.dev/es/challenges/2023/21)           |     🟠     | [TS](./src/challenges/21.ts) | [SPEC](./src/tests/21.spec.ts) |
 | 22  | [**🚂 Lenguaje de programación**](https://adventjs.dev/es/challenges/2023/22)           |     🟢     | [TS](./src/challenges/22.ts) | [SPEC](./src/tests/22.spec.ts) |
 | 23  | [**🍽️ Cena de navidad**](https://adventjs.dev/es/challenges/2023/23)           |     🟢     | [TS](./src/challenges/23.ts) | [SPEC](./src/tests/23.spec.ts) |
+| 24  | [**🪜 Salta en las escaleras**](https://adventjs.dev/es/challenges/2023/24)           |     🟠     | [TS](./src/challenges/24.ts) | [SPEC](./src/tests/24.spec.ts) |
 
 ## Herramientas utilizadas 🛠️
 
@@ -56,7 +57,8 @@ Para esta versión estaré usando TypeScript, en su versión 5.3.2.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-![Github Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Github
+Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ## Tests 🧪
 
@@ -74,8 +76,7 @@ Para ejecutar un reto en particular, se debe ejecutar el siguiente comando:
 ```bash
 pnpm t $N
 ```
-Donde `$N` es el número del reto.
-![Alt text](./lib/individual-tests.png)
+Donde `$N` es el número del reto. ![Alt text](./lib/individual-tests.png)
 
 ## CI/CD 🚀
 
