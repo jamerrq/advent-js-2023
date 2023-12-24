@@ -1,8 +1,7 @@
 # Advent JS version 2023 🎄
 
-> [!NOTE] Si este repositorio llega a 16+ estrellas antes de que termine el año,
-> estaré desarrollando una librería en npm para resolver los retos del
-> [AdventJS](https://adventjs.dev/) 2023 de manera local.
+> [!NOTE]
+> Si este repositorio llega a 16+ 🌟 antes de que termine el año, estaré desarrollando una librería en npm para resolver los retos del [AdventJS](https://adventjs.dev/) 2023 de manera local.
 
 Soluciones bizarras a los retos del [AdventJS](https://adventjs.dev/) 2023.
 

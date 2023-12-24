@@ -7,7 +7,9 @@ export function getStaircasePaths (steps: number, maxJump: number): number[][] {
       return
     }
 
-    for (let i = 1; i <= maxJump && i <= steps; i++) {
+    const minSteps = [maxJump, steps][+(steps < maxJump)]
+
+    for (let i = 1; i <= minSteps; i++) {
       calculatePaths(steps - i, maxJump, [...path, i])
     }
   }
