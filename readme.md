@@ -1,4 +1,4 @@
-# Advent JS version 2023 🎄
+# 🎄 Advent JS version 2023 🎄
 
 > [!NOTE] Si este repositorio llega a 16+ 🌟 antes de que termine el año, estaré
 > desarrollando una librería en npm para resolver los retos del
@@ -17,7 +17,7 @@ estarán publicando retos en la página oficial del evento:
 Los retos se pueden resolver tanto en JavaScript como en Typescript. Para esta
 versión estaré usando TypeScript, en su versión 5.3.2.
 
-## Retos 🎅
+## 🎅 Retos
 
 | Día | Reto | Dificultad [^1] | Solución | Tests |
 | :-: | :---------------------------------------------------------------------------: | :--------: | :---------------------------------------------------------------------: | :---: |
@@ -47,21 +47,17 @@ versión estaré usando TypeScript, en su versión 5.3.2.
 | 24  | [**🪜 Salta en las escaleras**](https://adventjs.dev/es/challenges/2023/24)      |     🟠     | [TS](./src/challenges/24.ts) | [SPEC](./src/tests/24.spec.ts) |
 | 25  | [**🗺️ Calculando Distancias**](https://adventjs.dev/es/challenges/2023/25)       |     🟠     | [TS](./src/challenges/25.ts) | [SPEC](./src/tests/25.spec.ts) |
 
-## Herramientas utilizadas 🛠️
+## 🛠️ Herramientas utilizadas
 
-![Pnpm](https://img.shields.io/badge/-Pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
-![EsLint](https://img.shields.io/badge/-EsLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+| Categoría | Herramientas |
+| :-------: | :----------: |
+| Desarrollo | [![Pnpm](https://img.shields.io/badge/-Pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)](https://pnpm.io/) [![EsLint](https://img.shields.io/badge/-EsLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org/) |
+| Tests | [![Vitest](https://img.shields.io/badge/-Vitest-ADD467?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev/) |
+| CI/CD | [![Github Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions) |
+| Lenguajes | [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) |
+| Otros | [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](https://www.markdownguide.org/) [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/es/) |
 
-![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)
-![Vitest](https://img.shields.io/badge/-Vitest-ADD467?style=flat-square&logo=vitest&logoColor=white)
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-![Github
-Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-## Tests 🧪
+## 🧪 Tests
 
 Para ejecutar los tests de los retos, se debe ejecutar el siguiente comando:
 
@@ -79,12 +75,12 @@ pnpm t $N
 ```
 Donde `$N` es el número del reto. ![Alt text](./lib/individual-tests.png)
 
-## CI/CD 🚀
+## 🚀 CI/CD
 
 [![pnpm ci - eslint -
 tests](https://github.com/jamerrq/advent-js-2023/actions/workflows/ci-eslint-tests.yml/badge.svg)](https://github.com/jamerrq/advent-js-2023/actions/workflows/ci-eslint-tests.yml)
 
-## Copyrigth
+## ©️ Copyrigth
 
 © 2023 [jamerrq](https://github.com/jamerrq)
 
